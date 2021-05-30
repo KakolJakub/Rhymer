@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rhymer", "Rhymer\Rhymer.csproj", "{B40DA11F-B10A-4743-B31F-3AB71B4C3052}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rhymer.UnitTests", "Rhymer.UnitTests\Rhymer.UnitTests.csproj", "{0C06B053-196D-40E0-8E4B-0D209E1FDC08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B40DA11F-B10A-4743-B31F-3AB71B4C3052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B40DA11F-B10A-4743-B31F-3AB71B4C3052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B40DA11F-B10A-4743-B31F-3AB71B4C3052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B40DA11F-B10A-4743-B31F-3AB71B4C3052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C06B053-196D-40E0-8E4B-0D209E1FDC08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C06B053-196D-40E0-8E4B-0D209E1FDC08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C06B053-196D-40E0-8E4B-0D209E1FDC08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C06B053-196D-40E0-8E4B-0D209E1FDC08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1375EDBE-1124-4615-BAD6-3671ED91D22D}
+	EndGlobalSection
+EndGlobal
